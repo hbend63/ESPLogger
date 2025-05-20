@@ -1,0 +1,1 @@
+This is a Demo on how to use an ESP32 as an Wifi-Sensor for Humidity and Temperature. Data will be stored on an dedicated Server and retrieved by an dedicated GUI-Client written in C++ in an Qt-Environment.
